@@ -1,7 +1,3 @@
-*[English](README.md) ∙ [日本語](README-ja.md) ∙ [简体中文](README-zh-Hans.md) ∙ [繁體中文](README-zh-TW.md) | [العَرَبِيَّة‎](https://github.com/donnemartin/system-design-primer/issues/170) ∙ [বাংলা](https://github.com/donnemartin/system-design-primer/issues/220) ∙ [Português do Brasil](https://github.com/donnemartin/system-design-primer/issues/40) ∙ [Deutsch](https://github.com/donnemartin/system-design-primer/issues/186) ∙ [ελληνικά](https://github.com/donnemartin/system-design-primer/issues/130) ∙ [עברית](https://github.com/donnemartin/system-design-primer/issues/272) ∙ [Italiano](https://github.com/donnemartin/system-design-primer/issues/104) ∙ [한국어](https://github.com/donnemartin/system-design-primer/issues/102) ∙ [فارسی](https://github.com/donnemartin/system-design-primer/issues/110) ∙ [Polski](https://github.com/donnemartin/system-design-primer/issues/68) ∙ [русский язык](https://github.com/donnemartin/system-design-primer/issues/87) ∙ [Español](https://github.com/donnemartin/system-design-primer/issues/136) ∙ [ภาษาไทย](https://github.com/donnemartin/system-design-primer/issues/187) ∙ [Türkçe](https://github.com/donnemartin/system-design-primer/issues/39) ∙ [tiếng Việt](https://github.com/donnemartin/system-design-primer/issues/127) ∙ [Français](https://github.com/donnemartin/system-design-primer/issues/250) | [Add Translation](https://github.com/donnemartin/system-design-primer/issues/28)*
-
-**Help [translate](TRANSLATIONS.md) this guide!**
-
 # The System Design Primer
 
 <p align="center">
@@ -1805,34 +1801,3 @@ Interested in adding a section or helping complete one in-progress?  [Contribute
 * Scatter gather
 * [Contribute](#contributing)
 
-## Credits
-
-Credits and sources are provided throughout this repo.
-
-Special thanks to:
-
-* [Hired in tech](http://www.hiredintech.com/system-design/the-system-design-process/)
-* [Cracking the coding interview](https://www.amazon.com/dp/0984782850/)
-* [High scalability](http://highscalability.com/)
-* [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
-* [shashank88/system_design](https://github.com/shashank88/system_design)
-* [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering)
-* [System design cheat sheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
-* [A distributed systems reading list](http://dancres.github.io/Pages/)
-* [Cracking the system design interview](http://www.puncsky.com/blog/2016-02-13-crack-the-system-design-interview)
-
-## Contact info
-
-Feel free to contact me to discuss any issues, questions, or comments.
-
-My contact info can be found on my [GitHub page](https://github.com/donnemartin).
-
-## License
-
-*I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (Facebook).*
-
-    Copyright 2017 Donne Martin
-
-    Creative Commons Attribution 4.0 International License (CC BY 4.0)
-
-    http://creativecommons.org/licenses/by/4.0/
